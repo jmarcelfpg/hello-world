@@ -1,4 +1,8 @@
 test
 
+<<<<<<< HEAD
 
 A Master
+=======
+change
+>>>>>>> change
