@@ -1,44 +1,18 @@
 test
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 A Master
-=======
-change
->>>>>>> change
-=======
 change
 
 another change
-<<<<<<< HEAD
->>>>>>> change
-=======
 
 A
-<<<<<<< HEAD
->>>>>>> A
-=======
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 B
->>>>>>> B
-=======
+
 C
->>>>>>> C
-=======
-B
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 D
->>>>>>> D
-=======
-E
->>>>>>> E
-=======
+
 E
 
 F
->>>>>>> F
