@@ -1,8 +1,14 @@
 test
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 A Master
 =======
 change
+>>>>>>> change
+=======
+change
+
+another change
 >>>>>>> change
