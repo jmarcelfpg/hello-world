@@ -6,4 +6,4 @@ another change
 
 A
 
-B
+C
