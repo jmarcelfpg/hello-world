@@ -11,4 +11,9 @@ change
 change
 
 another change
+<<<<<<< HEAD
 >>>>>>> change
+=======
+
+A
+>>>>>>> A
