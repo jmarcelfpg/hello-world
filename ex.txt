@@ -2,12 +2,4 @@ test
 
 change
 
-another change
 
-A
-
-B
-
-E
-
-F
